@@ -17,5 +17,8 @@
     "url": "https://github.com/Annie-Huang/my-javascript-algorithms/issues"
   },
   "homepage": "https://github.com/Annie-Huang/my-javascript-algorithms#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
 }
