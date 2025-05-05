@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Annie-Huang/my-javascript-algorithms#readme",
   "description": "",
   "dependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
 }

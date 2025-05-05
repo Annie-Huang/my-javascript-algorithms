@@ -4,3 +4,14 @@
 ---------------------------------------------------------------------------
 
 PS C:\Temp\my-javascript-algorithms> npm install typescript
+PS C:\Temp\my-javascript-algorithms> npm install ts-node
+
+
+
+
+
+
+
+
+
+
