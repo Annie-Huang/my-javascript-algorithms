@@ -1,10 +1,15 @@
 5 Must Know Sorting Algorithms Explained and Visualized
 (https://www.youtube.com/watch?v=W35KhZq2xFQ)
 
+https://github.com/Annie-Huang/my-javascript-algorithms
+
 ---------------------------------------------------------------------------
 
 PS C:\Temp\my-javascript-algorithms> npm install typescript
 PS C:\Temp\my-javascript-algorithms> npm install ts-node
+
+
+PS C:\Temp\my-javascript-algorithms> ts-node sorting
 
 
 
