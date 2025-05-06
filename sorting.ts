@@ -11,6 +11,30 @@ function bubbleSort(array: number[]) {
   return array;
 }
 
-console.log(bubbleSort([3, 5, 8, 2, 6, 10, 9, 4, 7, 1]));
+// console.log(bubbleSort([3, 5, 8, 2, 6, 10, 9, 4, 7, 1]));
 
-// console.log('annie');
+function insertionSort(array: number[]) {
+  for (let i = 1; i < array.length; i++) {
+    const value = array[i];
+    let j = i - 1;
+
+    for (j; j >= 0; j--) {
+      if (array[j] > value) {
+        array[j + 1] = array[j];
+      } else {
+        break;
+      }
+    }
+
+    console.log('j=', j);
+    array[j + 1] = value;
+  }
+
+  return array;
+}
+
+// const array = [3, 5, 8, 2, 6, 10, 9, 4, 7, 1];
+const array = [1, 9, 7, 4, 3, 2, 6, 10, 5, 8];
+// const array = [1, 9];
+console.log('array=', array);
+console.log('insertionSort=', insertionSort(array));
