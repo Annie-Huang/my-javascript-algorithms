@@ -3,6 +3,7 @@
 
 https://github.com/Annie-Huang/my-javascript-algorithms
 
+https://vite.dev/guide/
 ---------------------------------------------------------------------------
 
 PS C:\Temp\my-javascript-algorithms> npm install typescript
@@ -11,6 +12,8 @@ PS C:\Temp> npm create vite@latest my-javascript-algorithms -- --template vanill
 
 PS C:\Temp\my-javascript-algorithms> ts-node sorting
 
+
+Insertion sort is slightly better than bubble sort as you may not need to loop to the start of the array in 'j' everything to get it sorted.
 
 
 

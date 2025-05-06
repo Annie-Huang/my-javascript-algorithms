@@ -13,6 +13,7 @@ function bubbleSort(array: number[]) {
 
 // console.log(bubbleSort([3, 5, 8, 2, 6, 10, 9, 4, 7, 1]));
 
+// Insertion sort is slightly better than bubble sort as you may not need to loop to the start of the array in 'j' everything to get it sorted.
 function insertionSort(array: number[]) {
   for (let i = 1; i < array.length; i++) {
     const value = array[i];
