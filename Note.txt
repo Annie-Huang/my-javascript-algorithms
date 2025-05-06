@@ -7,7 +7,7 @@ https://github.com/Annie-Huang/my-javascript-algorithms
 
 PS C:\Temp\my-javascript-algorithms> npm install typescript
 PS C:\Temp\my-javascript-algorithms> npm install ts-node
-
+PS C:\Temp> npm create vite@latest my-javascript-algorithms -- --template vanilla-ts
 
 PS C:\Temp\my-javascript-algorithms> ts-node sorting
 
