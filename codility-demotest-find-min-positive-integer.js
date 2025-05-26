@@ -57,7 +57,7 @@ function solution(A) {
   // }
 
   for (let i = 0; i < length; i++) {
-    if (A[i] === result + 1) {
+    if (A[i] == result + 1) {
       result = A[i];
     } else if (A[i] > result + 1) {
       //   console.log('A[i]=', A[i]);
@@ -70,7 +70,7 @@ function solution(A) {
     // console.log('result=', result);
   }
 
-  if (result === A[length - 1]) {
+  if (result == A[length - 1]) {
     result = result + 1;
   }
 
@@ -78,5 +78,8 @@ function solution(A) {
 }
 
 console.log('solution([1, 3, 6, 4, 1, 2]) =', solution([1, 3, 6, 4, 1, 2]));
+// 5
 console.log('solution([1, 2, 3]) =', solution([1, 2, 3]));
+// 4
 console.log('solution([-1, -3]) =', solution([-1, -3]));
+// 1

@@ -6,6 +6,7 @@ https://github.com/Annie-Huang/my-javascript-algorithms
 https://vite.dev/guide/
 
 https://app.codility.com/demo/take-sample-test/
+https://app.codility.com/programmers/lessons/1-iterations/
 ---------------------------------------------------------------------------
 
 PS C:\Temp\my-javascript-algorithms> npm install typescript
