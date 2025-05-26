@@ -4,6 +4,8 @@
 https://github.com/Annie-Huang/my-javascript-algorithms
 
 https://vite.dev/guide/
+
+https://app.codility.com/demo/take-sample-test/
 ---------------------------------------------------------------------------
 
 PS C:\Temp\my-javascript-algorithms> npm install typescript
@@ -13,9 +15,27 @@ PS C:\Temp> npm create vite@latest my-javascript-algorithms -- --template vanill
 PS C:\Temp\my-javascript-algorithms> ts-node sorting
 
 
-Insertion sort is slightly better than bubble sort as you may not need to loop to the start of the array in 'j' everything to get it sorted.
+- Insertion sort is slightly better than bubble sort as you may not need to loop to the start of the array in 'j' everything to get it sorted.
 
 
+bubble sort:
+- have two arrays, first array start at the last position, and going left.
+- 2nd array start from the position 0, loop through all the way to 2nd array (current position - 1)'s position.
+- compare 2nd array current position value to next position value, if next one is smaller, swap the two value.
+- so if we have 8 items, basically the 2nd array will do comparison 7+6+5+4+3+2+1 times.
+
+insert sort:
+- have two arrays, first array start at position 1.
+- 2nd array start from first array (current position - 1)'s position, keep moving left until it get into the right position
+  as larger than left item but smaller than right item. then stop.
+- reassign 2nd array (current position + 1)'s position to first array current item value.
+- Basically, start from 2nd item in the list, keep moving left, until the item is larger than left item and smaller than right item.
+
+selection sort:
+- have two array, first array start from the beginner, for every array item:
+- have the second array to start from array item's next item, go through the rest of the array, find the min,
+- then swap the 2nd array started item with the min item
+- it's slower than bubble sort and insertion sort. because even if the array is original shorted you still need to go through it n^2 times.
 
 
 
