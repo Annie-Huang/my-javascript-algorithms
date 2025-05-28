@@ -60,14 +60,10 @@ function solution(S, P, Q) {
 
   // console.log('#############################')
 
-  const objA = obj['A'];
-  const objC = obj['C'];
-  const objG = obj['G'];
-  const objT = obj['T'];
-  const ASubKeys = Object.keys(objA);
-  const CSubKeys = Object.keys(objC);
-  const GSubKeys = Object.keys(objG);
-  const TSubKeys = Object.keys(objT);
+  const ASubKeys = Object.keys(obj['A']);
+  const CSubKeys = Object.keys(obj['C']);
+  const GSubKeys = Object.keys(obj['G']);
+  const TSubKeys = Object.keys(obj['T']);
 
   let resultArr = [];
 
