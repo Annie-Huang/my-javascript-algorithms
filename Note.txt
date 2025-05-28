@@ -11,6 +11,7 @@ https://app.codility.com/programmers/lessons/2-arrays/
 https://app.codility.com/programmers/lessons/3-time_complexity/
 https://app.codility.com/programmers/lessons/4-counting_elements/
 https://app.codility.com/programmers/lessons/5-prefix_sums/
+https://app.codility.com/programmers/lessons/6-sorting/
 
 ---------------------------------------------------------------------------
 
