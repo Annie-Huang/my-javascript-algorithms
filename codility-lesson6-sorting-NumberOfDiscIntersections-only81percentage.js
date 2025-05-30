@@ -93,10 +93,10 @@ function solution(A) {
     rangeArr.push(item);
   }
 
-  console.log('rangeArr = ', rangeArr);
+  // console.log('rangeArr = ', rangeArr);
 
   rangeArr.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
-  console.log('rangeArr new= ', rangeArr);
+  // console.log('rangeArr new= ', rangeArr);
 
   let exceedMax = false;
   let count = 0;
