@@ -49,6 +49,8 @@ selection sort:
 - it's slower than bubble sort and insertion sort. because even if the array is original shorted you still need to go through it n^2 times.
 
 
+Skip questions:
+Auroc
 
 
 
