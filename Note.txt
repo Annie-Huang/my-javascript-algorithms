@@ -58,6 +58,8 @@ Worth doing:
 CountGameRounds
 DifferentLettersConcatenation
 DigitSumReplacement
+DistinctNumbersCount
+
 
 
 
