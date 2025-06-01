@@ -57,6 +57,7 @@ BugfixingComputeMin
 Worth doing:
 CountGameRounds
 DifferentLettersConcatenation
+DigitSumReplacement
 
 
 
