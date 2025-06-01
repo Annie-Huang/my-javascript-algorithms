@@ -58,6 +58,9 @@ Don't understand question:
 Domino
 EraseOneLetter
 
+Cannot find better logic:
+LatestDate-draft
+
 Worth doing:
 CountGameRounds
 DifferentLettersConcatenation
