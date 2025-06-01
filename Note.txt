@@ -54,6 +54,10 @@ Auroc
 BattleshipRecognition
 BugfixingComputeMin
 
+Don't understand question:
+Domino
+EraseOneLetter
+
 Worth doing:
 CountGameRounds
 DifferentLettersConcatenation
