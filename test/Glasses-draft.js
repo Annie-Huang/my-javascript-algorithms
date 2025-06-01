@@ -5,8 +5,8 @@
   (N=10, K=10)
   (N=4, K=10)
   1.
-  if(N>K) {
-    N = K;
+  if(N>=K) {
+    return 1;
   }
 
   count = 0;
@@ -17,7 +17,7 @@
       return count;
     } else if (N < K) {
       if(N <= 0) {
-        return count;
+        return -1;
       }
       count++;
       K = K-N;
