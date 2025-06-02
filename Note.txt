@@ -71,7 +71,7 @@ DigitSumReplacement
 DistinctNumbersCount
 MessageNotification
 Missions
-
+MonotonicSegmentCount
 
 
 
