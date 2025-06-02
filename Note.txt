@@ -59,7 +59,7 @@ Domino
 EraseOneLetter
 
 Cannot find better logic:
-LatestDate-draft
+LatestDate
 
 Worth doing:
 CountGameRounds
