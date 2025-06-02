@@ -61,6 +61,7 @@ EraseOneLetter
 Cannot find logic:
 MaxSumDegree
 RowColumnDeletion
+ShortestUniqueSubstring
 
 Cannot find better logic:
 LatestDate  (got answer)
