@@ -58,6 +58,9 @@ Don't understand question:
 Domino
 EraseOneLetter
 
+Cannot find logic:
+MaxSumDegree
+
 Cannot find better logic:
 LatestDate
 
@@ -66,6 +69,7 @@ CountGameRounds
 DifferentLettersConcatenation
 DigitSumReplacement
 DistinctNumbersCount
+MessageNotification
 
 
 
