@@ -62,6 +62,8 @@ Cannot find logic:
 MaxSumDegree
 RowColumnDeletion
 ShortestUniqueSubstring
+SortedTwoLettersWord (got answer)
+SparseArray (got answer)
 
 Cannot find better logic:
 LatestDate  (got answer)
