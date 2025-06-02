@@ -16,4 +16,5 @@
       }
       return true;
 
+    4. There is test case like '12-3456-789' that need to fail.
  */

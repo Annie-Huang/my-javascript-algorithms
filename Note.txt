@@ -60,16 +60,17 @@ EraseOneLetter
 
 Cannot find logic:
 MaxSumDegree
+RowColumnDeletion
 
 Cannot find better logic:
-LatestDate
+LatestDate  (got answer)
 
 Worth doing:
-CountGameRounds
+CountGameRounds (got answer)
 DifferentLettersConcatenation
 DigitSumReplacement
 DistinctNumbersCount
-MessageNotification
+MessageNotification (got answer)
 Missions
 MonotonicSegmentCount
 
