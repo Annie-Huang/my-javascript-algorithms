@@ -78,4 +78,33 @@ Missions
 MonotonicSegmentCount
 
 
+Need to look at in achive2:
+ABString
+CheckRectangle
+CompanyEmailsVar
+ConsecutiveDecomposition
+Dicerolls
+EqualPairs
+FormatArray
+HolidayTrip
+minesweeper
+PairofTwoDigitNumbers
+playersMovement
+PlusMinusMinus  <-- no questions
+PointsOnRing
+removeFive
+RockPaperScissors   <-- no question
+ScheduleTrainings
+SecurePassword
+SemiAlternatingSubstring
+SmallestDigitSum
+TournamentRounds   <-- no question
+ValueOccurences   <-- no question
+
+
+
+
+
+
+
 
