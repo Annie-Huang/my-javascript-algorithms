@@ -78,13 +78,12 @@ Missions
 MonotonicSegmentCount
 
 
-Need to look at in achive2:
+Need to look at in archive2:
 ABString
 CheckRectangle
 CompanyEmailsVar
 ConsecutiveDecomposition
 Dicerolls
-EqualPairs
 FormatArray
 HolidayTrip
 minesweeper
@@ -102,6 +101,8 @@ TournamentRounds   <-- no question
 ValueOccurences   <-- no question
 
 
+Done in archive 2:
+EqualPairs
 
 
 
