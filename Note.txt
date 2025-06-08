@@ -57,6 +57,7 @@ BugfixingComputeMin
 Don't understand question:
 Domino
 EraseOneLetter
+Minesweeper
 
 Cannot find logic:
 MaxSumDegree
@@ -83,9 +84,6 @@ ABString
 CheckRectangle
 ConsecutiveDecomposition
 Dicerolls
-HolidayTrip
-minesweeper
-PairofTwoDigitNumbers
 playersMovement
 PlusMinusMinus  <-- no questions
 PointsOnRing
@@ -103,8 +101,8 @@ Done in archive 2:
 CompanyEmailsVar
 EqualPairs
 FormatArray
-
-
+HolidayTrip
+PairofTwoDigitNumbers
 
 
 
