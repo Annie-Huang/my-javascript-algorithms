@@ -81,10 +81,8 @@ MonotonicSegmentCount
 Need to look at in archive2:
 ABString
 CheckRectangle
-CompanyEmailsVar
 ConsecutiveDecomposition
 Dicerolls
-FormatArray
 HolidayTrip
 minesweeper
 PairofTwoDigitNumbers
@@ -102,7 +100,9 @@ ValueOccurences   <-- no question
 
 
 Done in archive 2:
+CompanyEmailsVar
 EqualPairs
+FormatArray
 
 
 
