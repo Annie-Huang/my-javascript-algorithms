@@ -84,7 +84,6 @@ ABString
 CheckRectangle
 ConsecutiveDecomposition
 Dicerolls
-playersMovement
 PlusMinusMinus  <-- no questions
 PointsOnRing
 removeFive
@@ -103,7 +102,7 @@ EqualPairs
 FormatArray
 HolidayTrip
 PairofTwoDigitNumbers
-
+PlayersMovement
 
 
 
