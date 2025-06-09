@@ -80,19 +80,18 @@ MonotonicSegmentCount
 
 
 Need to look at in archive2:
-ABString
 CheckRectangle
 ConsecutiveDecomposition
 Dicerolls
 PlusMinusMinus  <-- no questions
 RockPaperScissors   <-- no question
-SemiAlternatingSubstring
 SmallestDigitSum
 TournamentRounds   <-- no question
 ValueOccurences   <-- no question
 
 
 Done in archive 2:
+ABString
 CompanyEmailsVar
 EqualPairs
 FormatArray
@@ -103,4 +102,4 @@ PointsOnRing
 RemoveFive
 ScheduleTrainings
 SecurePassword
-
+SemiAlternatingSubstring
