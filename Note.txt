@@ -85,8 +85,6 @@ CheckRectangle
 ConsecutiveDecomposition
 Dicerolls
 PlusMinusMinus  <-- no questions
-PointsOnRing
-removeFive
 RockPaperScissors   <-- no question
 ScheduleTrainings
 SecurePassword
@@ -103,6 +101,7 @@ FormatArray
 HolidayTrip
 PairofTwoDigitNumbers
 PlayersMovement
-
+PointsOnRing
+RemoveFive
 
 
