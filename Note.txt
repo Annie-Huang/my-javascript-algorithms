@@ -80,19 +80,17 @@ MonotonicSegmentCount
 
 
 Need to look at in archive2:
-
-ConsecutiveDecomposition
 Dicerolls
 PlusMinusMinus  <-- no questions
 RockPaperScissors   <-- no question
 TournamentRounds   <-- no question
 ValueOccurences   <-- no question
 
-
 Done in archive 2:
 ABString
 CheckRectangle
 CompanyEmailsVar
+ConsecutiveDecomposition
 EqualPairs
 FormatArray
 HolidayTrip
