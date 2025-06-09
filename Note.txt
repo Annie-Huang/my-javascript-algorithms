@@ -80,7 +80,7 @@ MonotonicSegmentCount
 
 
 Need to look at in archive2:
-CheckRectangle
+
 ConsecutiveDecomposition
 Dicerolls
 PlusMinusMinus  <-- no questions
@@ -91,6 +91,7 @@ ValueOccurences   <-- no question
 
 Done in archive 2:
 ABString
+CheckRectangle
 CompanyEmailsVar
 EqualPairs
 FormatArray
