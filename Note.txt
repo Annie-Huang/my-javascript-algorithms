@@ -80,7 +80,6 @@ MonotonicSegmentCount
 
 
 Need to look at in archive2:
-Dicerolls
 PlusMinusMinus  <-- no questions
 RockPaperScissors   <-- no question
 TournamentRounds   <-- no question
@@ -91,6 +90,7 @@ ABString
 CheckRectangle
 CompanyEmailsVar
 ConsecutiveDecomposition
+Dicerolls
 EqualPairs
 FormatArray
 HolidayTrip
