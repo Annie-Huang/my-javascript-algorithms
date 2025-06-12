@@ -29,7 +29,7 @@
       return message + (exactWordCanFilled ? '' : ' ...')
  */
 
-function solution(message, K) {
+function solution1(message, K) {
   const msgArr = message.split(' ');
   const dotsLen = 4; // ' ...' == 4
   let remainingLen = K;
@@ -93,6 +93,32 @@ function solution(message, K) {
   }
 }
 
+function solution(message, K) {
+  const N = message.length;
+
+  if (N <= K) {
+    return message;
+  }
+
+  let arr = message.split(' ');
+  if (arr[0].length + 4 > K) {
+    return '...';
+  }
+
+  // If it gets into here, it means it can at least host the first word + ' ...'
+  let str = arr[0];
+  let remainLen = K - arr[0].length; // take out the first word
+  arr.shift();
+
+  while (arr[0].length + 1 + 4 <= remainLen) {
+    str = str + ' ' + arr[0];
+    remainLen = remainLen - arr[0].length - 1;
+    arr.shift();
+  }
+
+  return str + ' ...';
+}
+
 console.log(
   "solution('And now here is my secret', 15) = ",
   solution('And now here is my secret', 15),
@@ -108,5 +134,5 @@ console.log(
 console.log("solution('super dog', 4) = ", solution('super dog', 4));
 // '...'
 
-console.log("solution('super dog', 4) = ", solution('how are you', 20));
+console.log("solution('how are you', 20) = ", solution('how are you', 20));
 // 'how are you'
